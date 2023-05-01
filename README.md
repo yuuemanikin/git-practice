@@ -5,3 +5,4 @@ rebase-practiceブランチで更新再び！！
 rebase用ファイル更新
 今回は、stashします
 stash practice
+second chenge
